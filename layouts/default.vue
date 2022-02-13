@@ -3,7 +3,7 @@
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
-          <nuxt-link class="navbar-item" to="/">
+          <nuxt-link class="navbar-item" to="/" style="height:94px;">
             <img src="/glamou0.png" alt="Glamou Lagging and Cladding Logo" />
           </nuxt-link>
           <span class="navbar-burger burger" v-on:click="toggleNavbar">

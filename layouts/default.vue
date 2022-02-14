@@ -34,6 +34,16 @@
           <a href="http://opensource.org/licenses/mit-license.php">MIT</a>
         </p>
       </div>
+      <div class="content has-text-centered">
+        <p>
+          P.O. Box 8964-00300
+          <BR>
+          Nairobi, Kenya
+          <BR>
+          glamuoenterprises@gmail.com
+        </p>
+      </div>
+      
     </footer>
   </div>
 </template>

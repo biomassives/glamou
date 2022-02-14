@@ -4,7 +4,7 @@
       <div class="container">
         <div class="navbar-brand">
           <nuxt-link class="navbar-item" to="/" style="height:96px;">
-            <img src="/glamou4.png" alt="Glamou Lagging and Cladding Logo" style="height:94px !important;"/>
+            <img src="/glamou4.png" alt="Glamou Lagging and Cladding Logo" width="81" height="264" />
           </nuxt-link>
           <span class="navbar-burger burger" v-on:click="toggleNavbar">
             <span></span>
@@ -27,10 +27,7 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          <strong>Bulma - Blog theme</strong> by
-          <a href="https://gonzalojs.com">Gonzalo Gutierrez</a>. Based on the
-          <a href="http://jigsaw-blog-staging.tighten.co/">jigsaw-blog</a>. The
-          source code is licensed
+          Code <strong>BIOMASSIVES GROUP</strong>  licensed
           <a href="http://opensource.org/licenses/mit-license.php">MIT</a>
         </p>
       </div>

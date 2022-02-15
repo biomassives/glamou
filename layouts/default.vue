@@ -37,10 +37,12 @@
       <div class="content has-text-centered">
         <p>
           P.O. Box 8964-00300
-          <BR>
+        </p>
+        <p>
           Nairobi, Kenya
-          <BR>
-          glamuoenterprises@gmail.com
+        </p>
+        <p>
+        glamuoenterprises@gmail.com
         </p>
       </div>
       
